@@ -1,5 +1,5 @@
 # PR2 - Análisis de datos reales
-#Resumen Ejecutivo 
+# Resumen Ejecutivo 
 # Título del Proyecto: Predicción de la Temperatura Media Diaria Basada en Variables Meteorológicas
 # Objetivo del Proyecto: 
 El proyecto tuvo como objetivo desarrollar un modelo de predicción que pudiera estimar con precisión la temperatura media diaria utilizando como variables predictoras la humedad, la velocidad del viento y la presión atmosférica. Este modelo está diseñado para apoyar decisiones estratégicas en sectores donde el clima juega un papel crítico, como la agricultura, la energía y la gestión urbana.  Metodología: El proyecto implementó técnicas de análisis de datos y modelos de aprendizaje automático. Se exploraron varias opciones de modelado para identificar la solución más efectiva.
